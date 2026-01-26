@@ -6,13 +6,13 @@
 
 This project is a comprehensive C-based system developed to manage and analyze large datasets of flight information (Flights, Airports, Passengers, and Reservations). The application parses CSV data, validates integrity, and provides a high-performance query engine to extract statistics.
 
-The development focuses on strict **Modularity** and **Encapsulation**, utilizing opaque pointers and separating interface from implementation[cite: 13, 14].
+The development focuses on strict **Modularity** and **Encapsulation**, utilizing opaque pointers and separating interface from implementation.
 
 ### Key Features
-**Data Parsing:** robust handling of CSV files with syntactic and logical validation[cite: 355].
-**Error Logging:** Invalid records are automatically filtered and logged to specific error files (e.g., `flights_errors.csv`)[cite: 361].
+**Data Parsing:** robust handling of CSV files with syntactic and logical validation.
+**Error Logging:** Invalid records are automatically filtered and logged to specific error files (e.g., `flights_errors.csv`).
 **3 Execution Modes:** Batch processing, Interactive Terminal UI, and Automated Testing.
-**Performance:** Optimized data structures (Hash Tables/Trees) to handle large volumes of data[cite: 57].
+**Performance:** Optimized data structures (Hash Tables/Trees) to handle large volumes of data.
 
 ---
 
@@ -24,8 +24,8 @@ To compile and run this project, you need a Linux environment with the following
 * **Compiler:** `gcc`
 * **Build System:** `make`
 * **Libraries:**
-    * `glib2.0` (for generic data structures) [cite: 166]
-    * `ncurses`, `readline`, `history` (for the Interactive Mode UI) [cite: 166]
+    * `glib2.0` (for generic data structures) 
+    * `ncurses`, `readline`, `history` (for the Interactive Mode UI)
 
 **Install dependencies (Ubuntu/Debian):**
 ```bash
@@ -38,7 +38,7 @@ sudo apt install gcc make libglib2.0-dev libncurses-dev libreadline-dev
 
 ---
 
-## 💻 Usage & Execution Modes
+# 💻 Usage & Execution Modes
 
 The application supports three distinct modes of execution.
 
@@ -84,14 +84,14 @@ Syntax:
 ./programa-testes <dataset_path> <input_file> <expected_output_dir>
 ```
 
-## 📂 Project Structure
+# 📂 Project Structure
 
 The project follows the mandatory directory structure :
 <img width="825" height="264" alt="image" src="https://github.com/user-attachments/assets/c2e5b65e-59b2-4da8-bd1a-3a3570b5f79d" />
 
 
 
-## 👥 Authors
+# 👥 Authors
 Afonso Barros (A112178)
 Tomás Ferreira (A11018)
 Lucas Pinto (A111442)
