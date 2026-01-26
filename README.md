@@ -40,7 +40,7 @@ sudo apt install gcc make libglib2.0-dev libncurses-dev libreadline-dev
 
 ## 💻 Usage & Execution Modes
 
-[cite_start]The application supports three distinct modes of execution[cite: 204].
+The application supports three distinct modes of execution.
 
 ### 1. Batch Mode (Principal)
 This is the main processing engine used by the automatic evaluation platform. [cite_start]It accepts a dataset directory and a file containing a list of commands [cite: 209-211].
@@ -58,7 +58,7 @@ Syntax:
 ./programa-interativo
 ```
 
-# Features:
+### Features:
 
     Prompts for the dataset path upon launch.
 
@@ -66,11 +66,13 @@ Syntax:
 
     Paginated output for large results.
 
-# Interface Previews:
+### Interface Previews:
 
     Main Menu Select queries and load datasets easily via the text-based UI.
 
     Query Results View formatted results directly in your terminal.
+<img width="536" height="297" alt="image" src="https://github.com/user-attachments/assets/2535ba35-64ba-4446-85ca-41abe9b1390e" />
+
 
 
 ## Test Mode
@@ -85,16 +87,9 @@ Syntax:
 ## 📂 Project Structure
 
 The project follows the mandatory directory structure :
-Plaintext
+<img width="825" height="264" alt="image" src="https://github.com/user-attachments/assets/c2e5b65e-59b2-4da8-bd1a-3a3570b5f79d" />
 
-trabalho-pratico/
-├── include/        # Header files (.h) defining the public interface
-├── src/            # Source code (.c) containing the implementation
-├── dataset/        # CSV Data files (Flight data, not included in repo)
-├── resultados/     # Output directory for query results and error logs
-├── obj/            # Compiled object files
-├── Makefile        # Build script
-└── README.md       # Project documentation
+
 
 ## 👥 Authors
 Afonso Barros (A112178)
