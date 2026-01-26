@@ -89,9 +89,7 @@ Syntax:
 The project follows the mandatory directory structure :
 <img width="825" height="264" alt="image" src="https://github.com/user-attachments/assets/c2e5b65e-59b2-4da8-bd1a-3a3570b5f79d" />
 
-
-
 # 👥 Authors
-####Afonso Barros (A112178)
-####Tomás Ferreira (A11018)
-####Lucas Pinto (A111442)
+* **Afonso Barros** (A112178)
+* **Tomás Ferreira** (A11018)
+* **Lucas Pinto** (A111442)
