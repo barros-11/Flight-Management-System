@@ -92,6 +92,6 @@ The project follows the mandatory directory structure :
 
 
 # 👥 Authors
-Afonso Barros (A112178)
-Tomás Ferreira (A11018)
-Lucas Pinto (A111442)
+####Afonso Barros (A112178)
+####Tomás Ferreira (A11018)
+####Lucas Pinto (A111442)
