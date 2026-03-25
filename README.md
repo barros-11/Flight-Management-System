@@ -2,6 +2,7 @@
 
 **University of Minho - Laboratórios de Informática III (2025/2026)**
 
+**Grade: 20/20**
 ## 📋 Project Overview
 
 This project is a comprehensive C-based system developed to manage and analyze large datasets of flight information (Flights, Airports, Passengers, and Reservations). The application parses CSV data, validates integrity, and provides a high-performance query engine to extract statistics.
