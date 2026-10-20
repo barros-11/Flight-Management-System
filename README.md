@@ -44,7 +44,7 @@ sudo apt install gcc make libglib2.0-dev libncurses-dev libreadline-dev
 The application supports three distinct modes of execution.
 
 ### 1. Batch Mode (Principal)
-This is the main processing engine used by the automatic evaluation platform. [cite_start]It accepts a dataset directory and a file containing a list of commands [cite: 209-211].
+This is the main processing engine used by the automatic evaluation platform.It accepts a dataset directory and a file containing a list of commands.
 
 **Syntax:**
 ```bash
